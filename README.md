@@ -4,7 +4,7 @@ In this task the light turns on when the button is pressed.
 
 ## **Circuit**
 In these circuit we use these components:
-1. 1 Arduino boards
+1. 1 Arduino board
 1. 1 Breadboard 
 1. 2 Resistors 
 1. 1 Push button
