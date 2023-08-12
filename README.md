@@ -1,6 +1,6 @@
 # Task1_Electronics_and_electrical_engineering
 ## **Description**
-In this task the light turns on when the button is pressed
+In this task the light turns on when the button is pressed.
 
 ## **Circuit**
 In these circuit we use these components:
